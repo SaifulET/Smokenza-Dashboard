@@ -1,24 +1,8 @@
-# Ciger Admin Dashboard 
+# Smokenza Admin Dashboard 
 
 ## Short Summary
 
-`ciger` is the admin dashboard for the commerce system. It is a Next.js application used to manage inventory, orders, refunds, customers, employees, brands, blogs, carousel images, service pricing, discount codes, notifications, invoices, profile data, and analytics. It uses Zustand stores and an Axios API client to communicate with the backend. The dashboard has strong feature breadth, but should improve route protection, configuration management, naming consistency, responsive layout, and frontend validation.
-
-## Project Identity
-
-- Folder: `ciger`
-- Role: Admin/back-office application
-- Framework: Next.js App Router
-- Language: TypeScript and React
-- Package name: `nextjs-project-initialize`
-- Main API client: `lib/axios.ts`
-- State management: Zustand stores under `app/store`
-- UI folders: `Components` and `app`
-- Start scripts:
-  - `npm run dev`: `next dev --turbopack`
-  - `npm run build`: `next build --turbopack`
-  - `npm run start`: `next start`
-  - `npm run lint`: `eslint`
+`Smokenza-Dashoard` is the admin dashboard for the commerce system. It is a Next.js application used to manage inventory, orders, refunds, customers, employees, brands, blogs, carousel images, service pricing, discount codes, notifications, invoices, profile data, and analytics. It uses Zustand stores and an Axios API client to communicate with the backend. The dashboard has strong feature breadth, but should improve route protection, configuration management, naming consistency, responsive layout, and frontend validation.
 
 ## Technology Stack
 
